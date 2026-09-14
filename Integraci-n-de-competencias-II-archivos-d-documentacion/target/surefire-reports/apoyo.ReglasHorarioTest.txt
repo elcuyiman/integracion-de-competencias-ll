@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: apoyo.ReglasHorarioTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s -- in apoyo.ReglasHorarioTest
